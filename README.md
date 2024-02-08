@@ -2,7 +2,6 @@
 
 ## BI sample images
 
-![Page01](https://github.com/psungg/PowerBI-Clubbully-Prototype/blob/main/Images/Clubbully_Power_BI_Page_01.jpg)
 
 ![Page02](https://github.com/psungg/PowerBI-Clubbully-Prototype/blob/main/Images/Clubbully_Power_BI_Page_02.jpg)
 
