@@ -7,7 +7,7 @@
 
 ![Page03](https://github.com/psungg/PowerBI-Clubbully-Prototype/blob/main/Images/Clubbully_Power_BI_Page_03.jpg)
 
-![Page04](https://github.com/psungg/PowerBI-Clubbully-Prototype/blob/main/Images/Clubbully_Power_BI_Page_04.jpg)
+![Page04](https://github.com/psungg/PowerBI-Clubbully-Prototype/blob/main/Images/Clubbully_Power_BI_Page_05.jpg)
 
 ![Page05](https://github.com/psungg/PowerBI-Clubbully-Prototype/blob/main/Images/Clubbully_Power_BI_Page_06.jpg)
 
